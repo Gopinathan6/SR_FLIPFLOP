@@ -38,7 +38,7 @@ STEP:7 compare the output with truth table.
 
 # VERILOG CODE:
 
-module SR(clk,s,r,rst,q );
+module sr(clk,s,r,rst,q );
 
 input s,r,clk,rst;
 
